@@ -2,7 +2,7 @@
 ## Supervised Machine Learning
 Comprises of 99% of Machine learning applications. It refers to algorithms that learn through input and output mappings, where the outputs have certain kind of label on them.
 
-| <span style="color:red">Input(x) | <span style="color:blue">Output(y) | <span style="color:green">Application(Label) |
+| Input(x)                         | Output(y)                          |              Application(Label)              |
 |----------------------------------|------------------------------------|----------------------------------------------|
 | email                            | spam                               | spam filtering                               |
 | audio                            | text transcript                    | speech recognition                           |
