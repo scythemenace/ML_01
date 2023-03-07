@@ -16,7 +16,7 @@ Your goal is to systematically choose the function which gives the best output
 There are two types of supervised machine learning:-
 
 ### Regression
-We could possibly plot a graph and draw a line or a curve or any structure to see the trend and predict other types of data. In this case there could be **infinitely** many possible **outputs** based on how we look at the graph. This type of supervised learning is called **Regression**. They are used to predict numerical outputs, like determining the price of a house.
+We could possibly plot a graph and draw a line or a curve or any structure to see the trend and predict other types of data. In this case there could be `infinitely` many possible `outputs` based on how we look at the graph. This type of supervised learning is called **Regression**. They are used to predict numerical outputs, like determining the price of a house.
 
 ### Classification
 It is different from regression because unlike regression where there are infinitely many outputs based on the function we choose to predict the data, here we have finite outputs(or categories) for an input
@@ -27,7 +27,7 @@ Unlike regression, classification doesn’t have a numerical output. Usually man
 Suppose we are determining if a tumour is benign or malignant. There are mostly many inputs involved like thickness of tumour clump, uniformity of cell size, uniformity cell shape, age, tumour size, etc to determine the likelihood of a tumour happening.
 
 ### Summarising,
-the main differences between **Regression** and **Classification** is that in supervised machine learning, there are two main types of algorithms: regression and classification.
+the main differences between `Regression` and `Classification` is that in supervised machine learning, there are two main types of algorithms: regression and classification.
 
 Regression is used when the output variable is continuous, meaning that there can be an infinite number of possible outcomes. In regression, the goal is to fit a curve or line to the data to predict future outcomes. For example, you might use regression to predict the price of a house based on its size and location.
 
