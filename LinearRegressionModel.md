@@ -10,17 +10,17 @@ In the above image we can see multiple data coordinates we have. The **goal of l
 
 `We can also represent the above data in the image using a table`
 
-| size in feet^2 | price in $1000's |
-|-----------------|------------------|
-| 2104            | 400              |
-| 1416            | 232              |
-| 1534            | 315              |
-| 852             | 178              |
-| ...             | ...              |
-| 3210            | 870              |
+| size in feet<sup>2</sup> | price in $1000's |
+|--------------------------|------------------|
+| 2104                     | 400              |
+| 1416                     | 232              |
+| 1534                     | 315              |
+| 852                      | 178              |
+| ...                      | ...              |
+| 3210                     | 870              |
 
 The above table is what we call a '**training set**'. It is basically a subset of a dataset used to train a model. By '**training**' a model we refer to process of teaching an algorithm to make accurate decisions based on by adjusting its parameters to the relationships found in the training set.
 
-the input here (x-coordinate i.e. the size in feet^2) is called the '**feature**' and the output (y-coordinate i.e. price in $1000's) is called the '**target**'.
+the input here (x-coordinate i.e. the size in feet<sup>2</sup>) is called the '**feature**' and the output (y-coordinate i.e. price in $1000's) is called the '**target**'.
 
-(x^n, y^n) is known for denoting a specific training example at the n^th^ from our training set. For denoting the training example at the first row we just show (x, y) or at 4th position as (x^4, y^4) and so on...
+(x<sup>n,</sup>, y<sup>n</sup>) is known for denoting a specific training example at the n<sup>th</sup> from our training set. For denoting the training example at the first row we just show (x, y) or at 4th position as (x<sup>4</sup>, y<sup>4</sup>) and so on...
