@@ -1,0 +1,26 @@
+
+## Linear Regression Model
+In the `**supandunsupML**` markdown file, we talked about the regression and classification model. In the regression model, there is something called the **Linear Regression Model** which may be used for predicting data based on data we already have.
+
+Suppose we had a graph denoting prices of houses based on their size (**note this is a supervised model because the output has a label which is basically price of the house**)
+
+![House-size-price data comparison](/Screenshot%202023-02-01%20at%208.27.29%20AM.png)
+
+In the above image we can see multiple data coordinates we have. The **goal of linear regression** is to draw the best fitting straight **line** that describes the relation between the two variables (size and price). It is a regression model because the output(price) is numbers unlike classification where we have discrete structures as output.
+
+`We can also represent the above data in the image using a table`
+
+| size in feet^2^ | price in $1000's |
+|-----------------|------------------|
+| 2104            | 400              |
+| 1416            | 232              |
+| 1534            | 315              |
+| 852             | 178              |
+| ...             | ...              |
+| 3210            | 870              |
+
+The above table is what we call a '**training set**'. It is basically a subset of a dataset used to train a model. By '**training**' a model we refer to process of teaching an algorithm to make accurate decisions based on by adjusting its parameters to the relationships found in the training set.
+
+the input here (x-coordinate i.e. the size in feet^2^) is called the '**feature**' and the output (y-coordinate i.e. price in $1000's) is called the '**target**'.
+
+(x^n^, y^n^) is known for denoting a specific training example at the n^th^ from our training set. For denoting the training example at the first row we just show (x, y) or at 4th position as (x^4^, y^4^) and so on...
