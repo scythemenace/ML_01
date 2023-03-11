@@ -4,7 +4,7 @@ In the **`supandunsupML`** markdown file, we talked about the regression and cla
 
 Suppose we had a graph denoting prices of houses based on their size (**note this is a supervised model because the output has a label which is basically price of the house**)
 
-![House-size-price data comparison](/Screenshot%202023-02-01%20at%208.27.29%20AM.png)
+![House-size-price data comparison](/Screenshot%202023-03-11%20at%201.06.02%20AM.png)
 
 In the above image we can see multiple data coordinates we have. The **goal of linear regression** is to draw the best fitting straight **line** that describes the relation between the two variables (size and price). It is a regression model because the output(price) is numbers unlike classification where we have discrete structures as output.
 
