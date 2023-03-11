@@ -1,6 +1,6 @@
 
 ## Linear Regression Model
-In the `**supandunsupML**` markdown file, we talked about the regression and classification model. In the regression model, there is something called the **Linear Regression Model** which may be used for predicting data based on data we already have.
+In the **`supandunsupML`** markdown file, we talked about the regression and classification model. In the regression model, there is something called the **Linear Regression Model** which may be used for predicting data based on data we already have.
 
 Suppose we had a graph denoting prices of houses based on their size (**note this is a supervised model because the output has a label which is basically price of the house**)
 
