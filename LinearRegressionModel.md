@@ -10,14 +10,14 @@ In the above image we can see multiple data coordinates we have. The **goal of l
 
 `We can also represent the above data in the image using a table`
 
-| size in feet<sup>2</sup> | price in $1000's |
-|--------------------------|------------------|
-| 2104                     | 400              |
-| 1416                     | 232              |
-| 1534                     | 315              |
-| 852                      | 178              |
-| ...                      | ...              |
-| 3210                     | 870              |
+| <h5 style="color: blue;">size in feet<sup>2</sup></h5> | <h5 style="color: blue;">price in $1000's</h5> |
+|--------------------------------------------------------|------------------------------------------------|
+| 2104                                                   | 400                                            |
+| 1416                                                   | 232                                            |
+| 1534                                                   | 315                                            |
+| 852                                                    | 178                                            |
+| ...                                                    | ...                                            |
+| 3210                                                   | 870                                            |
 
 The above table is what we call a '**training set**'. It is basically a subset of a dataset used to train a model. By '**training**' a model we refer to process of teaching an algorithm to make accurate decisions based on by adjusting its parameters to the relationships found in the training set.
 
