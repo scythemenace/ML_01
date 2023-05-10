@@ -16,7 +16,7 @@ Your goal is to systematically choose the function which gives the best output
 There are two types of supervised machine learning:-
 
 ### Regression
-We could possibly plot a graph and draw a line or a curve or any structure to see the trend and predict other types of data. In this case there could be `infinitely` many possible `outputs` based on how we look at the graph. This type of supervised learning is called **Regression**. They are used to predict numerical outputs, like determining the price of a house.
+We could possibly plot a graph and draw a line or a curve or any structure to see the trend and predict other types of data. In this case there could be `infinitely` many possible `outputs` based on how we look at the graph. This type of supervised learning is called **Regression**. They are used to predict numerical outputs from infinitely many outputs, like determining the price of a house.
 
 ### Classification
 It is different from regression because unlike regression where there are infinitely many outputs based on the function we choose to predict the data, here we have finite outputs(or categories) for an input
