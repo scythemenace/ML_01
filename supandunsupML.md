@@ -39,7 +39,7 @@ Both regression and classification are types of supervised learning because the 
 After supervised learning the most widely used form of machine learning in unsupervised machine learning. Unliked supervised learning where each algorithm was associated with a an output label and all the inputs were grouped together based on those output labels, here we have a **set of inputs** and the algorithm is supposed to **find patterns** or structure among the data i.e. the data is supposed to **figure out** the labels **by itself** and we are not supervising it. 
 
 There are three most common types of unsupervised machine learning algorithms:-
-1. ### Clustering
+### 1.  Clustering
     This is the most common type of unsupervised machine learning algorithms because it takes inputs and groups them into different clusters that is in turn used in many applications.
 
     **example 1**
