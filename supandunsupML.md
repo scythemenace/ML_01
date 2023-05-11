@@ -50,4 +50,6 @@ There are three most common types of unsupervised machine learning algorithms:-
     ![data](/data.png "data image")
     In the above table, each row represents a particular gene. Our data will group these types of gene into a specific columns by finding out patterns.
 2. ### Anomaly Detection
+It is used to detect unusual events in a system. This turns out to be really important for fraud detection in financial systems where unsual transactions could be signs of fraud.
 3. ### Dimensionality reduction
+It is used to compress a big data set to a much smaller data set while losing as little information as possible.
