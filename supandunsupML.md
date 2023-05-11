@@ -44,7 +44,7 @@ There are three most common types of unsupervised machine learning algorithms:-
 
     **example 1**
     ![news](/googlenews.png "google news image")
-    In the above image, currently our news talks about a panda and how it is able to group them is because it has the common keywords panda, twin and zoo. Every day the news is different, but the algorithm is the same as it tries to group the news everyday according to the common keywords.
+    In the above image, currently our news talks about a panda and how it is able to group them is because it has the common keywords panda, twin and zoo. This is a type of unsupervised learning algorithm because nobody is telling the algorithm which keywords to choose(in this case panda, twin and zoo) in order to find all matching articles on the internet. The algorithm figures out the keywords that are important to group articles. Every day the news is different, but the algorithm is the same as it tries to group the news everyday according to the common keywords it finds.
 
     **example 2**
     ![data](/data.png "data image")
