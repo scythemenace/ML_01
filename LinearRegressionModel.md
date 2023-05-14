@@ -24,3 +24,13 @@ The above table is what we call a '**training set**'. It is basically a subset o
 the input here (x-coordinate i.e. the size in feet<sup>2</sup>) is called the '**feature**' and the output (y-coordinate i.e. price in $1000's) is called the '**target**'.
 
 (x<sup>n,</sup>, y<sup>n</sup>) is known for denoting a specific training example at the n<sup>th</sup> from our training set. For denoting the training example at the first row we just show (x, y) or at 4th position as (x<sup>4</sup>, y<sup>4</sup>) and so on...
+
+## Feeding the data to an algorithm in order to predict new values
+
+We have features(x) and targets(y). We give this data to the algorithm and it creates a function which gives us an **estimate** called ŷ (y-hat). ŷ (y-hat) is not the true output, but just an estimate based on the size of data that is given. The more the size of the data, the more accurate prediction of ŷ gets and at some point comes close to the true target value.
+
+![Feeding the data showcase](/Feeding.png)
+
+Comparing to our above house price prediction example, in a linear regression model, only one input variable is used i.e. it is univariate. Therefore, the function will likely produce a line of the form f(x) = wx + b or y = wx + b (slope-line formula).
+
+![Linear Function graph](/Straight%20line.png)
