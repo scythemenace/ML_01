@@ -1,2 +1,2 @@
 # ML_01
-This repository is me trying out Machine Learning for the first time
+This repository is for documenting Andrew Ng's ML Specialization course from Coursera.
